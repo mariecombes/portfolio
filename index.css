@@ -105,6 +105,14 @@ nav {
   text-transform: uppercase;
 }
 
+.section-label.white .arrow-element {
+  border: 0.5px solid #fff;
+}
+
+.section-label.white .label {
+  color: white;
+}
+
 .label {
   font-size: 12px;
   color: #434448;
@@ -258,6 +266,11 @@ header .title {
 
 .get-in-touch .link-get-in-touch:visited {
   color: #FFE2E2;
+}
+
+.get-in-touch-footer {
+  background: #563EFF;
+  padding: 0 0 20px 0;
 }
 
 .cover {
