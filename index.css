@@ -308,6 +308,7 @@ header .title {
   padding: 85px 0;
   font-size: 30px;
   line-height: 42px;
+  margin-bottom: -1px;
 }
 
 .get-in-touch .question {
