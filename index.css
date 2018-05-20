@@ -17,6 +17,12 @@ header {
   flex-direction: column;
 }
 
+.icon-button {
+  padding: 5px !important;
+  text-align: center !important;
+  margin-left: 5px;
+}
+
 nav {
   padding: 40px 0 85px 0;
 }
