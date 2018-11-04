@@ -1,0 +1,33 @@
+- index: 01
+  start: October 2016
+  finish: Today
+  picture: geeny-row.jpg
+  content: >
+    Geeny is an IoT platform that brings together a community of businesses with existing IoT solutions to
+    improve the consumer
+    experience through interoperability and data exchange.This enables customers to experience a whole new range
+    of functionalities with their existing devices and apps. Geeny ensures that data ownership remains with the
+    consumer in a GDPR-compliant way.
+  label: Geeny.io
+  title: Designer at Geeny, the guide through your IoT journey.
+- index: 02
+  start: October 2016
+  finish: October 2018
+  picture: master.png
+  content: >
+    Designing more meaningful data machines. Foster the creation of a human-centric & responsible IoT. There is lots of potential
+    for the Internet of Things (IoT) to create value and improve lives. But this comes with a challenge: How to foster
+    the creation of a human-centric & responsible IoT. The creative industry has to get to grips with data-driven systems
+    that interconnect and interact.
+  label: Master Thesis
+  title: Designing for meaning in the internet of data.  
+- index: 03
+  start: January 2016
+  finish: Today
+  picture: ux-camp.jpg
+  content: >
+    We are one of the largest events for User Experience Professionals in Europe. With 500+ active participants from all over
+    the world meet for inspiration, networking and lots of fun in Berlin every year. The event is held since 2009,
+    planned by a team of local UX enthusiasts and run during the weekend by all our participants.
+  label: UXCamp Europe
+  title: Co-organising UXCamp Europe in Berlin.
