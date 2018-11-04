@@ -1,0 +1,33 @@
+<div class="work-row">
+    <div class="time-wrapper pure-hidden-md pure-hidden-sm pure-hidden-xs">
+      <div class="work-timestamp">
+        <span class="timestamp-first">
+          {{.start}} -
+        </span>
+        <span class="timestamp-second">
+          {{.finish}}
+        </span>
+      </div>
+    </div>
+    <div class="image-wrapper">
+      <img class="cover-image" src="img/{{.picture}}">
+    </div>
+    <div class="work-wrapper">
+      <div class="work-top">
+        <div class="work-index pure-hidden-md pure-hidden-sm pure-hidden-xs">
+          {{.index}}
+        </div>
+        <div class="work-description pure-hidden-md pure-hidden-sm pure-hidden-xs">
+          {{.content}}
+        </div>
+      </div>
+      <div class="work-bottom">
+        <div class="work-place label">
+          {{.label}}
+        </div>
+        <h1 class="work-title">
+          {{.title}}
+        </h1>
+      </div>
+    </div>
+  </div>

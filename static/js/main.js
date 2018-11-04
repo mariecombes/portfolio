@@ -21,5 +21,3 @@ const bindScrollEvents = () => {
 window.onload = () => {
   bindScrollEvents();
 }
-
-

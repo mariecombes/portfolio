@@ -1,0 +1,5 @@
+<section class="work-list">
+  {{ range $.Site.Data.joblist }}
+    {{ partial "work-row.html" . }}
+  {{ end }}
+</section>
